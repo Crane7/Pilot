@@ -1,0 +1,6 @@
+[submodule "Pilot-analytics"]
+	path = Pilot-analytics
+	url = https://github.com/Crane7/Pilot-analytics
+[submodule "js/analytics"]
+	path = js/analytics
+	url = https://github.com/Crane7/Pilot-analytics
